@@ -19,7 +19,6 @@ Users can use the GUI interface near the bottom of the code to generate various 
 ## Design
 This project is designed to take the user through each step of our data inv3estigation process. The first portion imports libraries and sets up graphs. The fiirst graphs display raw data, without cleaning or modeling. The next section removes stray data points (points that were entered with a value of null or impossible values). After this the machine learning works with the clean data sets to determine high corellation variables for diabetes. The final section is a graphical interface that allows users to see how data corresponds (high and low correlation of variables).
 ***
-***
 ## Run Locally
 * Open the file in Jupyter Notebook or Google Collab
 * Compile all cell blocks
